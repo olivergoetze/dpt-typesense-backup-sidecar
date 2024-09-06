@@ -1,0 +1,1 @@
+0 0 * * * python /opt/typesense_backup/create_backup.py >> /opt/typesense_backup/create_backup.log
